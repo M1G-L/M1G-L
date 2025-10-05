@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=M1G-L&fontColor=FFFFFF&fontSize=80&fontAlignY=35&desc=Desktop%20Developer&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,24&height=200&section=header&text=M1G-L&fontColor=FFFFFF&fontSize=80&fontAlignY=35&desc=Desktop%20Developer&descAlignY=55&descSize=20" />
 </p>
 
 <div align="center">
@@ -77,6 +77,13 @@ class Developer
 
 ---
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=M1G-L&color=black&style=flat-square&label=Visitors)
+![GitHub followers](https://img.shields.io/github/followers/M1G-L?style=flat-square&color=black&labelColor=0d1117)
+![GitHub Stars](https://img.shields.io/github/stars/M1G-L?style=flat-square&color=black&labelColor=0d1117)
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" />
