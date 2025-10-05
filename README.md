@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=200&section=header&text=M1G-L&fontColor=00D9FF&fontSize=80&fontAlignY=35&desc=System%20Architect%20%E2%80%A2%20Performance%20Engineer&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=M1G-L&fontColor=00D9FF&fontSize=80&fontAlignY=35&desc=Desktop%20Developer&descAlignY=55&descSize=20" />
 </p>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Crafting+high-performance+Windows+applications;Deep-diving+into+WPF+and+MVVM+patterns;Optimizing+systems+at+the+kernel+level)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Windows+desktop+applications;Learning+WPF+and+modern+C%23;Creating+system+configuration+tools)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,18 +16,15 @@
 class Developer 
 {
     string Name = "M1G-L";
-    string[] Skills = { "C", "C#", "WinForms", ".NET", "WPF" };
-    string CurrentFocus = "WPF + MVVM Architecture";
-    string Passion = "System Optimization & Performance";
-    
-    void BuildTools() => Console.WriteLine("Creating powerful desktop applications...");
+    string[] Skills = { "C", "C#", "WinForms" };
+    string CurrentlyLearning = "WPF";
+    string CurrentProject = "Windows post-install configuration tool";
 }
 ```
 
-- ⚡ **Specialization**: Low-level Windows development and system tweaking
-- 🎨 **Learning**: Modern WPF, Material Design, and Fluent UI patterns  
-- 🔧 **Philosophy**: Performance first, aesthetics second, user experience always
-- 🧪 **Experimenting**: Registry optimization, memory management, and kernel-level operations
+- 💻 Working with **C**, **C#**, and **WinForms**
+- 📚 Learning **WPF**
+- 🔧 Building a WPF app for Windows configuration after clean installs
 
 ---
 
@@ -37,8 +34,8 @@ class Developer
 
 [![Nexor Optimizer](https://github-readme-stats.vercel.app/api/pin/?username=M1G-L&repo=Nexor-Optimizer&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9)](https://github.com/M1G-L/Nexor-Optimizer)
 
-**Nexor Optimizer** — Professional-grade Windows optimization suite  
-`Registry Tweaks` • `Performance Tuning` • `System Monitoring` • `Resource Management`
+**Nexor Optimizer** — Windows configuration tool built with C#  
+`System Tweaks` • `Post-Install Setup` • `Configuration Management`
 
 </div>
 
@@ -78,12 +75,9 @@ class Developer
 
 ---
 
-### 🌐 Connect
-
 <div align="center">
 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/M1G-L/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M1G-L)
 
 </div>
 
@@ -103,5 +97,5 @@ class Developer
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" />
 </p>
