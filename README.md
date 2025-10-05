@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=M1G-L&fontColor=00D9FF&fontSize=80&fontAlignY=35&desc=Desktop%20Developer&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,0&height=200&section=header&text=M1G-L&fontColor=00D9FF&fontSize=80&fontAlignY=35&desc=Desktop%20Developer&descAlignY=55&descSize=20" />
 </p>
 
 <div align="center">
@@ -69,10 +69,6 @@ class Developer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M1G-L&theme=dark&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=c9d1d9" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M1G-L&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
 ---
 
 <div align="center">
@@ -85,11 +81,6 @@ class Developer
 
 <div align="center">
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=M1G-L&color=00D9FF&style=flat-square&label=Visitors)
 ![GitHub followers](https://img.shields.io/github/followers/M1G-L?style=flat-square&color=00D9FF&labelColor=0d1117)
 ![GitHub Stars](https://img.shields.io/github/stars/M1G-L?style=flat-square&color=00D9FF&labelColor=0d1117)
@@ -97,5 +88,5 @@ class Developer
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,0&height=120&section=footer" />
 </p>
