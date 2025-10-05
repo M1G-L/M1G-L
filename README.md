@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,0&height=200&section=header&text=M1G-L&fontColor=00D9FF&fontSize=80&fontAlignY=35&desc=Desktop%20Developer&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=M1G-L&fontColor=00D9FF&fontSize=80&fontAlignY=35&desc=Desktop%20Developer&descAlignY=55&descSize=20" />
 </p>
 
 <div align="center">
@@ -45,14 +45,14 @@ class Developer
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![C](https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=c&logoColor=00D9FF)
+![C#](https://img.shields.io/badge/C%23-1a1a1a?style=for-the-badge&logo=csharp&logoColor=00D9FF)
+![.NET](https://img.shields.io/badge/.NET-1a1a1a?style=for-the-badge&logo=dotnet&logoColor=00D9FF)
+![WPF](https://img.shields.io/badge/WPF-1a1a1a?style=for-the-badge&logo=windows&logoColor=00D9FF)
+![WinForms](https://img.shields.io/badge/WinForms-1a1a1a?style=for-the-badge&logo=windows&logoColor=00D9FF)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-1a1a1a?style=for-the-badge&logo=visualstudio&logoColor=00D9FF)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=00D9FF)
+![Windows](https://img.shields.io/badge/Windows-1a1a1a?style=for-the-badge&logo=windows&logoColor=00D9FF)
 
 </div>
 
@@ -88,5 +88,5 @@ class Developer
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,0&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" />
 </p>
