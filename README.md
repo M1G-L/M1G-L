@@ -67,7 +67,7 @@ class Developer
 ### 📈 Performance Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M1G-L&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M1G-L&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9d1d9"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1G-L&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=c9d1d9&langs_count=6"/>
 </div>
 
@@ -79,9 +79,9 @@ class Developer
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=M1G-L&color=black&style=flat-square&label=Visitors)
-![GitHub followers](https://img.shields.io/github/followers/M1G-L?style=flat-square&color=black&labelColor=0d1117)
-![GitHub Stars](https://img.shields.io/github/stars/M1G-L?style=flat-square&color=black&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=M1G-L&color=ffffff&style=flat-square&label=Visitors)
+![GitHub followers](https://img.shields.io/github/followers/M1G-L?style=flat-square&color=ffffff&labelColor=0d1117)
+![GitHub Stars](https://img.shields.io/github/stars/M1G-L?style=flat-square&color=ffffff&labelColor=0d1117)
 
 </div>
 
