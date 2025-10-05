@@ -85,6 +85,8 @@ class Developer
 
 </div>
 
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,24&height=120&section=footer" />
 </p>
