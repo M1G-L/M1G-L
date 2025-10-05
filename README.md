@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=M1G-L&fontColor=FFFFFF&fontSize=80&fontAlignY=35&desc=Desktop%20Developer&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,24&height=200&section=header&text=M1G-L&fontColor=FFFFFF&fontSize=80&fontAlignY=35&desc=Desktop%20Developer&descAlignY=55&descSize=20" />
 </p>
 
 <div align="center">
@@ -12,16 +12,13 @@
 
 ### 🎯 About Me
 
-```json
+```csharp
+class Developer 
 {
-  "Name": "M1G-L",
-  "Skills": [
-    "C",
-    "C#",
-    "WinForms"
-  ],
-  "CurrentlyLearning": "WPF",
-  "CurrentProject": "Windows post-install configuration tool"
+    string Name = "M1G-L";
+    string[] Skills = { "C", "C#", "WinForms" };
+    string CurrentlyLearning = "WPF";
+    string CurrentProject = "Windows post-install configuration tool";
 }
 ```
 
@@ -91,5 +88,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,24&height=120&section=footer" />
 </p>
